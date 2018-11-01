@@ -1748,7 +1748,7 @@ if (HTMLWidgets.shinyMode){
             el.hoverNearest = data.options.highlight.hoverNearest;
             el.highlightColor = data.options.highlight.hideColor;
             el.highlightAlgorithm = data.options.highlight.algorithm;
-            el.highlightLabelOnly = data.options.labelOnly;
+            el.highlightLabelOnly = data.options.highlight.labelOnly;
           }
 
           // byselection init
